@@ -29,7 +29,6 @@
 - 🎮 **[Discord](https://discord.com/)** (Username: `blank3601`)  
   [![Discord Badge](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/)
 
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
 
 ---
 
